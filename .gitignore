@@ -1,0 +1,12 @@
+# local run output and scratch
+out/
+output/
+*.out
+
+# node, if anyone ever adds tooling around the entry
+node_modules/
+
+# editor and OS noise
+.DS_Store
+*.log
+*~
